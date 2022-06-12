@@ -1,0 +1,6 @@
+$  ssf $
+num begin (){
+num a;
+a = 10;
+end;
+}

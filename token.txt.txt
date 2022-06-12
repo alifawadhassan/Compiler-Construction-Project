@@ -1,0 +1,15 @@
+ DT , num , 1
+ KW ,  begin , 1
+( , ( , 1
+) , ) , 1
+{ , { , 1
+ DT , num , 2
+ Iden ,  a , 2
+; , ; , 2
+ Iden , a , 3
+ AO , = , 3 
+int_const ,  10 , 3
+; , ; , 3
+ KW , end , 4
+; , ; , 4
+} , } , 5
